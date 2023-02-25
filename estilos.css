@@ -1,0 +1,24 @@
+body{
+   
+background: url("supernova.jpg") no-repeat;
+background-size: 1920px 1080px;
+background: url("f1.png") no-repeat top no-repeat center;
+
+
+}
+.texto{
+    background: rgba(255, 255, 255, 0.4);
+    font-size: 18px;
+    font-family: "arial";
+    
+    border: solid;
+    margin: 0 auto;
+    padding: 2em;
+    width: 300px;
+
+}
+h1{
+    color: white;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #6d6257, 0 0 30px #6d6257, 0 0 40px #6d6257, 0 0 55px #6d6257, 0 0 75px #6d6257;
+}
+
